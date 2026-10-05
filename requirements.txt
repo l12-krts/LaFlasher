@@ -1,0 +1,4 @@
+PyQt6>=6.5
+esptool>=5.1,<6
+littlefs-python>=0.19,<1
+pyserial>=3.5
